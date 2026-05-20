@@ -1,0 +1,11 @@
+# Gemini CLI Migration Desk
+
+Gemini CLI Migration Desk imports repositories, CLI configs, extension inventories, rollout owners, and policy notes, then turns migration risk into a signed evidence packet.
+
+Website: https://geminiclimigrationdesk.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Gemini CLI migration audit
+Type: SaaS
+Default plan: Team
+
+Public boundary: docs-only repository; no production source code or secrets.
